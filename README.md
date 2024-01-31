@@ -1,9 +1,8 @@
 - Hi, I’m @BenCaiello
 - I have a background in Biological / Medical Research Sciences, with experience in "wet labs" doing cell-culture and other molecular biology experiments.
-- I’m mainly interested in Computational Biology (or perhaps Cybersecurity!)
-- I’m currently learning Python: the basics for data science & machine learning. Mainly I need to re-examine & reinforce what I've already learned at this point before going on to new things.
-- I’m looking to practice datascience on publicly available datasets (Kaggle!)
-- How to reach me here or on Kaggle
+- Employed as a Laboratory Technologist to operate msas cytometry and imaging mass cytometry equipment at the Medical Univeristy of South Carolina
+- I’m currently learning code and packages (predominantly R, Python, & some GUI based tools) for the analysis of Mass Cytometry and Imaging Mass Cytometry data
+- How to reach me: 
 
 <!---
 BenCaiello/BenCaiello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
